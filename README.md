@@ -10,7 +10,7 @@ This service will:
 
 ## Deployment and usage
 
-* [Ansible role](https://gitlab.com/infopen/infrastructure/ansible-roles/ansible-role-nginx-proxy)
+* [Ansible role](https://github.com/infOpen-Deployments/ansible-role-compose-nginx-proxy.git)
 
 Expected networks:
 * `services` : used for services to link with Nginx reverse proxy service
